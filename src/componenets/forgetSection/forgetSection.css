@@ -1,0 +1,8 @@
+#forgetSection {
+  display: flex;
+  justify-content: space-between;
+}
+#anchor {
+    text-decoration: none;
+    color: white;
+  }

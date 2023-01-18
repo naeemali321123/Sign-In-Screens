@@ -1,0 +1,16 @@
+#loginSection {
+  padding: 66px;
+  border-radius: 50px;
+  color: white;
+  background-color: #003d7a8a;
+  text-align: center;
+}
+#loginSection > h2 {
+  text-align: center;
+  padding-bottom: 50px;
+  font-family: Inter;
+  font-weight: 600;
+}
+
+
+

@@ -1,0 +1,14 @@
+#robotSection {
+  display: flex;
+  justify-content: space-between;
+  background-color: #d9d9d9;
+  color: black;
+  border-radius: 5px;
+}
+#captchaTxt {
+  font-family: "Inter";
+  font-size: 6px;
+}
+.robotCheck {
+  font-size: 20px;
+}
